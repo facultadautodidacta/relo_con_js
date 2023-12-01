@@ -1,0 +1,18 @@
+#reloj {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+body{
+    background-color: #FCFCFC;
+}
+
+.mt-app {
+    margin-top: 300px;
+}
+
+.card-body {
+    background-image: url('fondo6.jpg');
+    background-size: cover;
+}
